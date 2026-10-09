@@ -1,0 +1,8 @@
+LEap year
+fibonachi
+pelindrom
+armstrong
+even odd
+fact
+prime number
+check string is pelimdrom or not without slicing
